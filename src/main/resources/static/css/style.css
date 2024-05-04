@@ -1,9 +1,26 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
-*/
-/* 
-    Created on : 2 de mai. de 2024, 17:31:58
-    Author     : vsslv
-*/
+#area-filmes{
+    text-align: center;
+    margin-top: 80px;
+}
 
+h1{
+    margin: auto;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+#form-area{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cadForm{
+    margin: auto;
+    background-color:#e9e9e9;
+    border-radius: 8px;
+}
+
+.cadForm input {
+    margin-bottom: 6px;
+}
